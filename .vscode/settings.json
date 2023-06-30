@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "mrcc_interface.h": "c",
+        "bit_math.h": "c",
+        "error_states.h": "c",
+        "fwc_interface.h": "c",
+        "mnvic_private.h": "c",
+        "mnvic_interface.h": "c"
+    }
+}
